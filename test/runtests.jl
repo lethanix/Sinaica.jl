@@ -1,4 +1,4 @@
-using Sinaica
+import Sinaica
 using Test
 using Revise
 
