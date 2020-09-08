@@ -1,0 +1,13 @@
+name = "Sinaica"
+uuid = "8a925c4c-1422-4188-830c-6473f2312671"
+authors = ["Louis C. Murguía", "Marco Galván", "You-i Lab"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
